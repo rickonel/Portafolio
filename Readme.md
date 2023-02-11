@@ -1,1 +1,1 @@
-Proyecto portafolio de prueba para la certificación de Web Responsive Design para freeCodeCamp
+Web Responsive Design Certification Test Portfolio Project for freeCodeCamp
